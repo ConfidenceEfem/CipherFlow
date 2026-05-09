@@ -1,0 +1,7 @@
+contracts/node_modules/
+contracts/cache/
+contracts/artifacts/
+contracts/.env
+
+.env
+node_modules/
